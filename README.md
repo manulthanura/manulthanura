@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manulthanura&label=Profile%20views&color=0e75b6&style=flat" alt="manulthanura" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manulthanura-ma&margin-w=15" alt="manulthanura" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manulthanura" alt="manulthanura" /></a> </p>
 
 - 🌱 I’m currently learning **as an undergraduate student @ SLTC**
 

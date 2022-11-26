@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm Manul Thanura, Interested in Computer Engineering 👀</div>  
   
-<table><tr><td valign="top" width="80%">
+<table><tr><td valign="top" width="70%">
 - 🎓 Currently learning as an undergraduate student @[SLTC](https://sltc.ac.lk/) 🚀
   
 
@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact: I'm smiling while I've still got all my teeth  
   
-</td><td valign="top" width="20%">
+</td><td valign="top" width="30%">
  <div align="center">
 <img src="https://github.com/manulthanura/manulthanura/blob/main/Developer%20activity.gif" align="center" style="width: 100%" />
 </div> 

@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm Manul Thanura, Interested in Computer Engineering 👀</div>  
   
-
+<table><tr><td valign="top" width="80%">
 - 🎓 Currently learning as an undergraduate student @[SLTC 🚀](https://sltc.ac.lk/)  
   
 
@@ -17,7 +17,10 @@
 
 - ⚡ Fun fact: I'm smiling while I've still got all my teeth  
   
-
+</td><td valign="top" width="33%">
+  https://storyset.com/illustration/developer-activity/bro/animate?share=54996
+</td></tr></table>  
+  
 <br/>  
 
 

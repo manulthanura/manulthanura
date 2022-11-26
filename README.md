@@ -6,7 +6,7 @@
 ### <div align="center">I'm Manul Thanura, Interested in Computer Engineering 👀</div>  
   
 <table><tr><td valign="top" width="70%">
-- 🎓 Currently learning as an undergraduate student @ [SLTC](https://sltc.ac.lk/) 🚀
+- 🎓 Currently learning as an undergraduate student @ [SLTC](https://sltc.ac.lk/)
   
 
 - 👨‍💻 All in one solution to grow online  [FORGEAR](https://forgear.lk/)  

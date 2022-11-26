@@ -19,7 +19,7 @@
   
 </td><td valign="top" width="20%">
  <div align="center">
-<img src="https://storyset.com/illustration/developer-activity/bro/animate?share=54996" align="center" style="width: 100%" />
+<img src="https://github.com/manulthanura/manulthanura/blob/main/Developer%20activity.gif" align="center" style="width: 100%" />
 </div> 
 </td></tr></table>  
   

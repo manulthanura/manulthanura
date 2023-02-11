@@ -103,9 +103,8 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?manulthanura=anuraghazra&show_icons=true&theme=transparent" align="center" /></div>
+<!-- ## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?manulthanura=anuraghazra&show_icons=true&theme=transparent" align="center" /></div> -->
 
 
 ## Metrics

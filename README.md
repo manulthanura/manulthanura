@@ -104,12 +104,11 @@
 <br/>  
 
 ## Github Stats  
-
-<img src="https://github-readme-stats.vercel.app/api?username=manulthanura&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=manulthanura&layout=compact"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manulthanura"/>
 <img src="https://github-readme-stats.vercel.app/api?username=manulthanura&show_icons=true&theme=dark"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manulthanura&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=manulthanura&show_icons=true"/> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=manulthanura&layout=compact&theme=dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manulthanura&theme=dark"/>
+
 
 
 

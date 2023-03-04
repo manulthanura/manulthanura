@@ -108,7 +108,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=manulthanura&show_icons=true&theme=dark"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manulthanura&theme=dark"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manulthanura&layout=compact&theme=dark&langs_count=10" width="30%"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manulthanura&repo=Library&theme=dark" width="54.2%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manulthanura&repo=Library&theme=dark" width="54.3%"/>
 </div>
 
 

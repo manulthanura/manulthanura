@@ -106,8 +106,9 @@
 ## Github Stats  
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=manulthanura&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manulthanura&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manulthanura&layout=compact&theme=dark"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manulthanura&theme=dark"/></div>
+</div>
 
 
 

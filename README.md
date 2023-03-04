@@ -105,6 +105,7 @@
 
 <!-- ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?manulthanura=anuraghazra&show_icons=true&theme=transparent" align="center" /></div> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- ## Metrics

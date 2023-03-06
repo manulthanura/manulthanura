@@ -113,8 +113,6 @@
   </a>
 </div>
 
-
-
 <!-- ## Metrics
 <br/><div align="center" width="100%">
 
@@ -130,15 +128,12 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=manulthanura&&style=flat-square" align="center" />
 </div>  
-  
 
 <br/>  
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/manulthanura" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
+                <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"/>
             </a></div>
 <br />

@@ -22,7 +22,6 @@
 <table><tr><td valign="top" width="33%">
 
 
-
 ### Languages  
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  

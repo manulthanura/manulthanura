@@ -6,12 +6,9 @@
   
 - 🎓 Currently learning as an undergraduate student @[SLTC](https://sltc.ac.lk/)
   
-
 - 👨‍💻 All in one solution to grow online  [FORGEAR](https://forgear.lk/)  
-  
 
 - ❓ Tell me about anything related to ML and SE  
-  
 
 - ⚡ Fun fact: I'm smiling while I've still got all my teeth  
    

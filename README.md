@@ -1,6 +1,28 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
+<lottie-player id="repeatPlayer" src="https://assets10.lottiefiles.com/packages/lf20_GbabwrUY2k.json" style="width:400px; height: 400px;">"></lottie-player>
+
+<script>
+LottieInteractivity.create({
+    player: '#repeatPlayer',
+    mode: 'chain',
+    actions: [
+        {
+            state: 'autoplay',
+            transition: 'repeat',
+            repeat: 2
+        },
+        {
+            path: 'https://assets2.lottiefiles.com/packages/lf20_2m1smtya.json',
+            state: 'autoplay',
+            frames: [0, 110],
+            transition: 'onComplete',
+            reset: true,
+        }
+    ]
+});
+</script>
   
 ### <div align="center">I'm Manul Thanura, Interested in Computer Engineering 👀</div>  
 

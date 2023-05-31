@@ -43,7 +43,6 @@
 </td><td valign="top" width="33%">
 
 
-
 ### Tools  
 <div align="center">  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="25" /></a>  

@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-
+ 
 ### <div align="center">I'm Manul Thanura, Interested in Computer Engineering 👀</div>  
 
 - 🎓 Currently learning as an undergraduate student @[SLTC](https://sltc.ac.lk/)

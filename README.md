@@ -92,7 +92,7 @@
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=manulthanura&show_icons=true&theme=dark"/> <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manulthanura&theme=dark"/> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manulthanura&layout=compact&theme=dark&langs_count=10" width="30%"/> <br>
+  <img src="https://github-readme-stats-sigma-ten.vercel.app/api/top-langs?username=manulthanura&layout=compact&theme=dark&langs_count=10" width="30%"/> <br>
   <a href="https://github.com/manulthanura/Library.git" target="_blank">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=manulthanura&repo=Library&theme=dark" width="54.3%"/>
   </a>

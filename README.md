@@ -92,18 +92,18 @@
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=manulthanura&show_icons=true&theme=dark"/> <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manulthanura&theme=dark"/> <br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=manulthanura&layout=compact&theme=dark&langs_count=10&hide=css,html" width="30%"/> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manulthanura&layout=compact&theme=dark&langs_count=10&hide=css,html" width="30%"/> <br>
   <a href="https://github.com/manulthanura/Library.git" target="_blank">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=manulthanura&repo=Library&theme=dark" width="54.3%"/>
   </a>
 </div>
 
-<!-- ## Metrics
+## Metrics
 <br/><div align="center" width="100%">
 
 ![Metrics](https://metrics.lecoq.io/manulthanura?template=classic&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.ignored=css&languages.limit=10&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FColombo)
 
-</div>  -->
+</div> 
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31gt7uw2a3kx6p5nhfhna2rzmqd4&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  

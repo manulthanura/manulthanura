@@ -3,6 +3,15 @@
 </div>  
 <br/> 
 
+<div class="wrapper">
+    <ul class="dynamic-txts">
+      <li><span>YouTuber</span></li>
+      <li><span>Designer</span></li>
+      <li><span>Developer</span></li>
+      <li><span>Freelancer</span></li>
+    </ul>
+  </div>
+
 ## <div align="center"><h1>I'm Manul Thanura <img src="https://user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif" width="50"></h1>
 </div>  
 

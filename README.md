@@ -1,22 +1,8 @@
-<link href="style.css" rel="stylesheet"></link>
+
 <div align="center">
 <img src="./hello.gif" align="center" style="width: 100%" />
 </div>  
 <br/> 
-
-<div class="wrapper" align="center">
-    <ul class="dynamic-txts">
-      <li><span><👋🏻Hello, World!/></span></li>
-      <li><span><👋🏻Hola, World!/></span></li>
-      <li><span><👋🏻Ayubowan, World!/></span></li>
-      <li><span><👋🏻nǐ hǎo, World!/></span></li>
-      <li><span><👋🏻Privet, World!/></span></li>
-      <li><span><👋🏻Namaste, World!/></span></li>
-      <li><span><👋🏻Ciao, World!/></span></li>
-      <li><span><👋🏻marḥaban, World!/></span></li>
-      <li><span><👋🏻konnichiwa, World!/></span></li>
-    </ul>
-  </div>
 
 ## <div align="center"><h1>I'm Manul Thanura <img src="https://user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif" width="50"></h1>
 </div>  

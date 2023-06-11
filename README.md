@@ -2,6 +2,7 @@
 <img src="./hello.gif" align="center" style="width: 100%" />
 </div>  
 <br/> 
+
 ### <div align="center">I'm Manul Thanura, Interested in Computer Engineering 👀</div>  
 
 - 🎓 Currently learning as an undergraduate student @[SLTC](https://sltc.ac.lk/)

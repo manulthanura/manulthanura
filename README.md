@@ -3,10 +3,13 @@
 </div>  
 <br/> 
 
-### <div align="center">I'm Manul Thanura, Interested in Computer Engineering 👀</div>  
+## <div align="center"><h1>I'm Manul Thanura <img src="https://user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif" width="50"></h1>
+</div>  
 
 - 🎓 Currently learning as an undergraduate student @[SLTC](https://sltc.ac.lk/)
-- 👨‍💻 All in one solution to grow online  [FORGEAR](https://forgear.lk/)  
+- 📌 Vice Chairman of [IEEE Student Branch](https://ieee.sltc.ac.lk/) of SLTC (2023/2024)
+- 👨‍💻 Founder of All in one solution to grow online [FORGEAR](https://forgear.lk/)
+- 👀 Interested in Information and Communication Engineering
 - ❓ Tell me about anything related to ML and SE  
 - ⚡ Fun fact: I'm smiling while I've still got all my teeth  
    
@@ -86,6 +89,9 @@
 </a>
 <a href="https://instagram.com/manulthanura" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://manulthanura.medium.com/" target="_blank">
+<img src=https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
@@ -93,14 +99,14 @@
 
 
 ## Github Stats  
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=manulthanura&show_icons=true&theme=dark"/> <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manulthanura&theme=dark"/> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manulthanura&layout=compact&theme=dark&langs_count=10&hide=css,html" width="40%"/> <br>
   <a href="https://github.com/manulthanura/Library.git" target="_blank">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=manulthanura&repo=Library&theme=dark" width="54.3%"/>
   </a>
-</div>
+</div> -->
 
 ![Metrics](/github-metrics.svg)
 <!-- ## Metrics

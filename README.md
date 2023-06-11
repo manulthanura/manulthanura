@@ -4,12 +4,17 @@
 </div>  
 <br/> 
 
-<div class="wrapper">
+<div class="wrapper" align="center">
     <ul class="dynamic-txts">
-      <li><span>YouTuber</span></li>
-      <li><span>Designer</span></li>
-      <li><span>Developer</span></li>
-      <li><span>Freelancer</span></li>
+      <li><span><👋🏻Hello, World!/></span></li>
+      <li><span><👋🏻Hola, World!/></span></li>
+      <li><span><👋🏻Ayubowan, World!/></span></li>
+      <li><span><👋🏻nǐ hǎo, World!/></span></li>
+      <li><span><👋🏻Privet, World!/></span></li>
+      <li><span><👋🏻Namaste, World!/></span></li>
+      <li><span><👋🏻Ciao, World!/></span></li>
+      <li><span><👋🏻marḥaban, World!/></span></li>
+      <li><span><👋🏻konnichiwa, World!/></span></li>
     </ul>
   </div>
 

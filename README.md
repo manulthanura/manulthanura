@@ -1,3 +1,4 @@
+<link href="style.css" rel="stylesheet"></link>
 <div align="center">
 <img src="./hello.gif" align="center" style="width: 100%" />
 </div>  

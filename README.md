@@ -1,7 +1,7 @@
 <div align="center">
 <img src="./hello.gif" align="center" style="width: 100%" />
 </div>  
-
+<br/> 
 ### <div align="center">I'm Manul Thanura, Interested in Computer Engineering 👀</div>  
 
 - 🎓 Currently learning as an undergraduate student @[SLTC](https://sltc.ac.lk/)
@@ -10,6 +10,9 @@
 - ⚡ Fun fact: I'm smiling while I've still got all my teeth  
    
 <br/>  
+<div align="center">
+<img src="./GradientLine.gif" align="center" style="width: 100%" />
+</div>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">

@@ -1,3 +1,6 @@
+# Copywrite 2023 Manul Thanura
+# This file is part of the Manul Thanura GitHub Metrics project.
+# The Manul Thanura GitHub Metrics project can not be copied and/or distributed without the express
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:

@@ -3,7 +3,7 @@
 <img src="./hello.gif" align="center" style="width: 100%" />
 </div> <br/> 
 
-## <div align="center"><h1>I'm Manul Thanura <img src="https://user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif" width="50"></h1>
+## <div align="center"><h1>I'm Manul Thanura<img src="https://user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif" width="50"></h1>
 </div>  
 
 - 🎓 Currently learning as an undergraduate student @[SLTC](https://sltc.ac.lk/)

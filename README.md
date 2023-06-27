@@ -13,7 +13,6 @@
 - ❓ Tell me about anything related to ML and SE  
 - ⚡ Fun fact: I'm smiling while I've still got all my teeth  
    
-
 <div align="center">
 <img src="./GradientLine.gif" align="center" style="width: 100%" />
 </div>  

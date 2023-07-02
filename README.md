@@ -8,7 +8,7 @@
 - 🎓 Currently learning as an undergraduate student @[SLTC](https://sltc.ac.lk/)
 - 📌 Vice Chairman of [IEEE Student Branch](https://ieee.sltc.ac.lk/) of SLTC (2023/2024)
 - 👨‍💻 Founder @[FORGEAR](https://forgear.lk/) - All in one solution to grow online
-- 👀 Interested in Information and Communication Engineering
+- 👀 Reading in Information and Communication Engineering
 - ❓ Tell me about anything related to ML and SE  
 - ⚡ Fun fact: I'm smiling while I've still got all my teeth  
    

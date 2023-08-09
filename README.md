@@ -24,7 +24,7 @@
 
 ### Frameworks  
 <div align="center"> 
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,astro,react,express,django,tensorflow,flutter,jquery&perline=6" alt="Frameworks" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,astro,react,express,flask,django,tensorflow,flutter,jquery&perline=6" alt="Frameworks" />
 </div>
 
 </td><td valign="top" width="33%">

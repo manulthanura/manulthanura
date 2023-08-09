@@ -18,20 +18,20 @@
 
 ### Languages  
 <div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,c,matlab,dart,nodejs,sass,mysql" alt="Languages" height="25" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,c,matlab,dart,nodejs,sass,mysql&perline=3" alt="Languages" height="25" />
 </div>
 </td><td valign="top" width="33%">
 
 ### Frameworks  
 <div align="center"> 
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,astro,react,express,django,tensorflow,flutter,jquery" alt="Frameworks" height="25" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,astro,react,express,django,tensorflow,flutter,jquery&perline=3" alt="Frameworks" height="25" />
 </div>
 
 </td><td valign="top" width="33%">
 
 ### Tools  
 <div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,androidstudio,ai,ps,figma,pr,xd,firebase,ae,wordpress,git,postman" alt="Tools" height="25" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,androidstudio,ai,ps,figma,pr,xd,firebase,ae,wordpress,git,postman&perline=3" alt="Tools" height="25" />
 </div>
 
 </td></tr></table>  <br/> 

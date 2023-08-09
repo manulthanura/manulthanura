@@ -31,7 +31,7 @@
 
 ### Tools  
 <div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,androidstudio,ai,ps,figma,pr,xd,firebase,lightroom,aftereffects,wordpress,git,postman" alt="Tools" height="25" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,androidstudio,ai,ps,figma,pr,xd,firebase,ae,wordpress,git,postman" alt="Tools" height="25" />
 </div>
 
 </td></tr></table>  <br/> 

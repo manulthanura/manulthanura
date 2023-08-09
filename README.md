@@ -18,7 +18,7 @@
 
 ### Languages  
 <div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,c,dart,nodejs,sass,mysql" alt="Languages" height="25" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,c,matlab,dart,nodejs,sass,mysql" alt="Languages" height="25" />
 </div>
 </td><td valign="top" width="33%">
 
@@ -31,7 +31,7 @@
 
 ### Tools  
 <div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,androidstudio,illustrator,photoshop,figma,premiere,xd,xampp,firebase,lightroom,aftereffects,wordpress,git" alt="Tools" height="25" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,androidstudio,illustrator,ps,figma,premiere,xd,xampp,firebase,lightroom,aftereffects,wordpress,git" alt="Tools" height="25" />
 </div>
 
 </td></tr></table>  <br/> 

@@ -39,7 +39,7 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_ignored: html, css, ShaderLab, HLSL, SCSS, roff, Mathematica
+          plugin_languages_ignored: html, css, ShaderLab, HLSL, SCSS, roff, Mathematica, jupyter notebook
           plugin_languages_limit: 10
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14

@@ -7,8 +7,7 @@
 
 <h1 align="center">I'm Manul Thanura<img src="https://user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif" width="50"></h1>
 
-<h3>I'm an undergraduate at ![SLTC Research University](https://sltc.ac.lk/)
-  studying Information and Communication Engineering. I'm passionate about machine learning and software engineering, and I'm always happy to chat about anything related to these topics!</h3>
+### I'm an undergraduate at ![SLTC Research University](https://sltc.ac.lk/) studying Information and Communication Engineering. I'm passionate about machine learning and software engineering, and I'm always happy to chat about anything related to these topics!
 
 <div align="center">
 <img src="./GradientLine.gif" align="center" style="width: 100%" />

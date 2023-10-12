@@ -13,7 +13,7 @@ I'm an undergraduate at SLTC Research University studying Information and Commun
 <img src="./GradientLine.gif" align="center" style="width: 100%" />
 </div>
 
-## My Skill Set 
+## My Skill Set
 <table><tr><td valign="top" width="33%">
 
 ### Languages  

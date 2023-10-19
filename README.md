@@ -10,7 +10,7 @@
 I'm an undergraduate at SLTC Research University studying Information and Communication Engineering. I'm passionate about machine learning and software engineering, and I'm always happy to chat about anything related to these topics!
 
 <div align="center">
-<img src="./GradientLine.gif" align="center" style="width: 100%" />
+<img src="./GradientLine.gif" align="center" style="width: 100%"/>
 </div>
 
 ## My Skill Set

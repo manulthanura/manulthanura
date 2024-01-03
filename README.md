@@ -87,7 +87,8 @@ I'm an undergraduate at SLTC Research University studying Information and Commun
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=manulthanura&&style=flat-square" align="center" />
 </div>  
-<br/>  
+<br/> 
+
 <!-- buy me coffee -->
 <div align="center">
   <a href="https://www.buymeacoffee.com/manulthanura" target="_blank" style="display: inline-block;">

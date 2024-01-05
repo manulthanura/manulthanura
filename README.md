@@ -32,7 +32,6 @@ I'm an undergraduate at SLTC Research University studying Information and Commun
 <div align="center">  
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,androidstudio,ai,ps,ae,pr,xd,figma,firebase,wordpress,git,postman&perline=6" alt="Tools" />
 </div>
-
 </td></tr></table>  <br/> 
 
 

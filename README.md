@@ -26,6 +26,7 @@ I'm an undergraduate at SLTC Research University studying Information and Commun
 ### Frameworks  
 <div align="center">
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,astro,react,nextjs,flask,django,tensorflow,flutter,jquery&perline=6" alt="Frameworks" />
+  <img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,astro,react,nextjs,flask,django,tensorflow,flutter,jquery&perline=6" alt="Frameworks" />
 </div>
 </td><td valign="top" width="33%">
 

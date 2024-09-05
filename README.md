@@ -17,8 +17,7 @@
 
 <br/> 
 
-
-## Connect with me  
+## Connect with me 🌎
 <div align="center">
 <a href="https://github.com/manulthanura" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -45,7 +44,7 @@
   
 <br/>  
 
-## Github Stats  
+## Github Stats 🧮
 <!-- <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=manulthanura&show_icons=true&theme=dark"/> <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manulthanura&theme=dark"/> <br>

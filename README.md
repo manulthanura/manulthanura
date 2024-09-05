@@ -1,4 +1,4 @@
-<a href="https://manulthanura.com"><img src="./hero.png" align="center" style="width: 100%" alt="Manul Thanura" /></a>
+<a href="https://manulthanura.com"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240905%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240905T132118Z&X-Amz-Expires=300&X-Amz-Signature=36c279db9e559269cd477fff3820b80be7c198dad1496a6acee27082bd5ba98c&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=588181932" align="center" style="width: 100%" alt="Manul Thanura" /></a>
 
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=50&duration=1&pause=1500&color=2BE642&center=true&vCenter=true&width=1080&height=150&lines=%3C%F0%9F%91%8BHello%2C+World!%2F%3E;%3C%F0%9F%91%8BAyubowan%2C+World!%2F%3E;%3C%F0%9F%91%8BHola%2C+World!%2F%3E;%3C%F0%9F%91%8BN%C7%90+h%C7%8Eo%2C+World!%2F%3E;%3C%F0%9F%91%8BCiao%2C+World!%2F%3E;%3C%F0%9F%91%8BNamasthe%2C+World!%2F%3E" alt="Typing SVG" /></a>
